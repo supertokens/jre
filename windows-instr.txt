@@ -5,7 +5,7 @@ These are for 15.0.1
 - Open https://justinmahar.github.io/easyjre/ in browser. Pick option 2 in box 1. Then "Windows" in box 3.
 - In the terminal, run .\java --list-modules | clip
 - Go to box 4 in that page and click on paste
-- In box 5 (customize Your JRE), search for jdk.unsupported in the left box, check that and move that to the right box.
+- In box 5 (customize Your JRE), search for jdk.unsupported (and other things to add - see readme) in the left box, check that and move them to the right box.
 - There will be a command shown in the last box, copy that and paste that in your terminal, and run it.
 - The above will create a folder named (something like) "jre-15.0.1".
 - Zip that folder, and send it to me on slack.
